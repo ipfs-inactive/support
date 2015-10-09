@@ -22,6 +22,8 @@ If you have a clear bug or an abstract question, please log it with the appropri
 
 It is OK to log questions you're unsure of here! We will redirect you to the appropriate repository if we feel it can be answered better there.
 
+If you like old fashioned discussion email lists, join the [Google Groups ipfs-users list](https://groups.google.com/forum/#!forum/ipfs-users).
+
 ## Meta questions about this repo.
 
 Please [open an issue](https://github.com/ipfs/support/issues/new)
