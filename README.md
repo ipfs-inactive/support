@@ -1,6 +1,20 @@
 # Support
 
-For questions on how to get IPFS up and running smoothly.
+[![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
+[![](https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square)](http://ipfs.io/)
+[![](https://img.shields.io/badge/freenode-%23ipfs-blue.svg?style=flat-square)](http://webchat.freenode.net/?channels=%23ipfs)
+[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+
+> For questions on how to get IPFS up and running smoothly
+
+## Table of Contents
+
+- [How to use this repository](#how-to-use-this-repository)
+- [Other Repositories](#other-repositories)
+- [Contribute](#contribute)
+  - [Meta questions about this repo.](#meta-questions-about-this-repo)
+  - [Code of Conduct](#code-of-conduct)
+- [License](#license)
 
 ## How to use this repository
 
@@ -24,10 +38,20 @@ It is OK to log questions you're unsure of here! We will redirect you to the app
 
 If you like old fashioned discussion email lists, join the [Google Groups ipfs-users list](https://groups.google.com/forum/#!forum/ipfs-users).
 
-## Meta questions about this repo.
+## Contribute
+
+Feel free to join in. All welcome. Open an [issue](https://github.com/ipfs/support/issues)!
+
+### Meta questions about this repo.
 
 Please [open an issue](https://github.com/ipfs/support/issues/new)
 
+### Code of Conduct
+
+This repository falls under the IPFS [Code of Conduct](https://github.com/ipfs/community/blob/master/code-of-conduct.md).
+
+[![](https://cdn.rawgit.com/jbenet/contribute-ipfs-gif/master/img/contribute.gif)](https://github.com/ipfs/community/blob/master/contributing.md)
+
 ## License
 
-MIT.
+MIT
